@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ابتدائية ومتوسطة التحفيظ الثانية بالطائف</title>
+<style>
+body {
+  margin: 0;
+  font-family: Tahoma, Arial;
+  background: #f8f3fa;
+  color: #493653;
+  text-align: center;
+}
+header {
+  background: linear-gradient(135deg,#9273a9,#c6a9d4);
+  color: white;
+  padding: 55px 15px;
+}
+h1 { font-size: 27px; }
+main { padding: 30px 15px; }
+.card {
+  background: white;
+  border-radius: 18px;
+  padding: 25px;
+  margin: 18px auto;
+  max-width: 500px;
+  box-shadow: 0 4px 15px #ddd;
+}
+a {
+  display: inline-block;
+  background: #9273a9;
+  color: white;
+  padding: 13px 28px;
+  border-radius: 12px;
+  text-decoration: none;
+  margin-top: 12px;
+}
+footer { padding: 25px; color: #806b89; }
+</style>
+</head>
+<body>
+<header>
+<h1>ابتدائية ومتوسطة التحفيظ الثانية بالطائف</h1>
+<p>منصة التميز والإبداع والارتقاء</p>
+</header>
+<main>
+<div class="card">
+<h2>مرحبًا بكن في الصفحة الرئيسية</h2>
+<p>بوابتكن للوصول إلى المنصات والبرامج التفاعلية المدرسية</p>
+</div>
+<div class="card">
+<h2>منصاتنا التفاعلية</h2>
+<p>قياس أثر برامج الخطة التشغيلية</p>
+<a href="#" >الدخول إلى المنصة</a>
+</div>
+</main>
+<footer>
+إدارة المدرسة<br>
+مديرة المدرسة: رانية العصيمي
+</footer>
+</body>
+</html>
